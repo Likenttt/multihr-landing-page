@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy for Multi HR
+title: Privacy Policy
 include_in_header: true
 ---
 

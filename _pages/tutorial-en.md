@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tutorial for Multi HR
+title: Tutorial
 include_in_header: true
 ---
 
