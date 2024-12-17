@@ -1,4 +1,8 @@
-# Multi HR: Multi-Device Heart Rate Monitoring & Analysis Tool
+---
+layout: page
+title: Tutorial for Multi HR
+include_in_header: true
+---
 
 ## Introduction
 

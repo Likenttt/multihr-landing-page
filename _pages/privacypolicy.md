@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy for Multi HR
-include_in_header: false
+include_in_header: true
 ---
 
 **Last Updated: 2024-12-17**
