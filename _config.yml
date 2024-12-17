@@ -34,7 +34,7 @@ mastodon_link:
 features:
   - title: Multiple Device Support
     description: Connect and monitor multiple heart rate devices simultaneously. Compatible with devices supporting BLE 0x180D service (Polar, Garmin, etc.).
-    fontawesome_icon_name: bluetooth
+    fontawesome_icon_name: bluetooth-b
 
   - title: Real-time Visualization
     description: View real-time heart rate data through intuitive graphs and charts for all connected devices.
